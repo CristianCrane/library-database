@@ -1,0 +1,60 @@
+Dec 08, 2016 9:00:04 AM DBManager addBook
+INFO: New Book added:
+Hopes Peak (Harper and Lane)
+ISBN: 1503940950
+Author: Tony Healey
+Publisher: Thomas & Mercer
+Year Published: 2017
+Quantity: 0
+Price: $11.99
+
+Dec 08, 2016 9:00:04 AM DBManager addBook
+INFO: Added new copy of Hopes Peak (Harper and Lane)
+Dec 08, 2016 9:19:07 AM DBManager addBook
+INFO: New Book added:
+Sisters One, Two, Three
+ISBN: 1503937461
+Author: Nancy Star
+Publisher: Lake Union Publishing
+Year Published: 2017
+Quantity: 0
+Price: $8.26
+
+Dec 08, 2016 9:19:07 AM DBManager addBook
+INFO: Added new copy of Sisters One, Two, Three
+Dec 08, 2016 9:22:21 AM DBManager addBook
+INFO: New Book added:
+Breakthrough
+ISBN: 1475031904
+Author: Michael C. Grumley
+Publisher: CreateSpace Independent Publishing Platform
+Year Published: 2013
+Quantity: 0
+Price: $10.15
+
+Dec 08, 2016 9:22:21 AM DBManager addBook
+INFO: Added new copy of Breakthrough
+Dec 08, 2016 9:23:59 AM DBManager addBook
+INFO: New Book added:
+Fantastic Beasts and Where to Find Them: The Original Screenplay
+ISBN: 1338109065
+Author: J.K. Rowling
+Publisher: Arthur A. Levine Books
+Year Published: 2016
+Quantity: 0
+Price: $12.49
+
+Dec 08, 2016 9:23:59 AM DBManager addBook
+INFO: Added new copy of Fantastic Beasts and Where to Find Them: The Original Screenplay
+Dec 08, 2016 9:28:54 AM DBManager addBook
+INFO: New Book added:
+Killing the Rising Sun: How America Vanquished World War II Japan
+ISBN: 1627790624
+Author: Martin Dugard
+Publisher: Henry Holt and Co.
+Year Published: 2016
+Quantity: 0
+Price: $16.86
+
+Dec 08, 2016 9:28:54 AM DBManager addBook
+INFO: Added new copy of Killing the Rising Sun: How America Vanquished World War II Japan

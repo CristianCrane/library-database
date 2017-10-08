@@ -1,0 +1,57 @@
+ISBN | BOOK_TITLE | BOOK_AUTHOR | BOOK_PUBLISHER | YEAR_PUBLISHED | MIN_PRICE | MAX_PRICE | AVG_PRICE
+0743235533 | The Greatest Minds and Ideas of All Time | Will Durant | Simon & Schuster | 2002 | $11.47 | $17.22 | $14.61
+0684807610 | Benjamin Franklin: An American Life | Walter Isaacson | Simon & Schuster | 2003 | $0.01 | $7.99 | $4.09
+0743235533 | The Greatest Minds and Ideas of All Time | Will Durant | Simon & Schuster | 2002 | $11.47 | $17.22 | $14.61
+0743235533 | The Greatest Minds and Ideas of All Time | Will Durant | Simon & Schuster | 2002 | $11.47 | $17.22 | $14.61
+0451205367 | The Richest Man in Babylon | George S. Clason | Signet | 2002 | $3.68 | $8.25 | $4.67
+1451648537 | Steve Jobs | Walter Isaacson | Simon & Schuster | 2011 | $0.01 | $4.78 | $0.56
+0684807610 | Benjamin Franklin: An American Life | Walter Isaacson | Simon & Schuster | 2003 | $0.01 | $7.99 | $4.09
+0199291152 | The Selfish Gene: 30th Anniversary Edition--with a new Introduction by the Author | Richard Dawkins | Oxford University Press | 2006 | $4.25 | $10.35 | $6.58
+0743264738 | Einstein: His Life and Universe | Walter Isaacson | Simon & Schuster | 2007 | $1.79 | $8.45 | $5.16
+0316219282 | The Everything Store: Jeff Bezos and the Age of Amazon | Brad Stone | Back Bay Books | 2014 | $2.09 | $9.99 | $5.77
+0743235533 | The Greatest Minds and Ideas of All Time | Will Durant | Simon & Schuster | 2002 | $11.47 | $17.22 | $14.61
+0451205367 | The Richest Man in Babylon | George S. Clason | Signet | 2002 | $3.68 | $8.25 | $4.67
+0205992129 | Evolutionary Psychology: The New Science of the Mind | David Buss | Psychology Press | 2014 | $45.49 | $77.99 | $64.98
+0743235533 | The Greatest Minds and Ideas of All Time | Will Durant | Simon & Schuster | 2002 | $11.47 | $17.22 | $14.61
+0316219282 | The Everything Store: Jeff Bezos and the Age of Amazon | Brad Stone | Back Bay Books | 2014 | $2.09 | $9.99 | $5.77
+0316219282 | The Everything Store: Jeff Bezos and the Age of Amazon | Brad Stone | Back Bay Books | 2014 | $2.09 | $9.99 | $5.77
+0684807610 | Benjamin Franklin: An American Life | Walter Isaacson | Simon & Schuster | 2003 | $0.01 | $7.99 | $4.09
+1585424331 | Think and Grow Rich: The Landmark Bestseller - Now Revised and Updated for the 21st Century | Arthur R. Pell | TarcherPerigee | 2005 | $1.49 | $6.54 | $4.35
+1451648537 | Steve Jobs | Walter Isaacson | Simon & Schuster | 2011 | $0.01 | $4.78 | $0.56
+0684807610 | Benjamin Franklin: An American Life | Walter Isaacson | Simon & Schuster | 2003 | $0.01 | $7.99 | $4.09
+0684807610 | Benjamin Franklin: An American Life | Walter Isaacson | Simon & Schuster | 2003 | $0.01 | $7.99 | $4.09
+0743235533 | The Greatest Minds and Ideas of All Time | Will Durant | Simon & Schuster | 2002 | $11.47 | $17.22 | $14.61
+0743235533 | The Greatest Minds and Ideas of All Time | Will Durant | Simon & Schuster | 2002 | $11.47 | $17.22 | $14.61
+1451648537 | Steve Jobs | Walter Isaacson | Simon & Schuster | 2011 | $0.01 | $4.78 | $0.56
+1594202664 | Washington: A Life | Ron Chernow | Penguin Press | 2010 | $12.50 | $19.95 | $16.13
+1451648537 | Steve Jobs | Walter Isaacson | Simon & Schuster | 2011 | $0.01 | $4.78 | $0.56
+0684807610 | Benjamin Franklin: An American Life | Walter Isaacson | Simon & Schuster | 2003 | $0.01 | $7.99 | $4.09
+0205992129 | Evolutionary Psychology: The New Science of the Mind | David Buss | Psychology Press | 2014 | $45.49 | $77.99 | $64.98
+0553562835 | Sam Walton: Made In America | John Huey | Bantam | 1993 | $0.01 | $8.30 | $4.58
+0451205367 | The Richest Man in Babylon | George S. Clason | Signet | 2002 | $3.68 | $8.25 | $4.67
+0205992129 | Evolutionary Psychology: The New Science of the Mind | David Buss | Psychology Press | 2014 | $45.49 | $77.99 | $64.98
+0553562835 | Sam Walton: Made In America | John Huey | Bantam | 1993 | $0.01 | $8.30 | $4.58
+1585424331 | Think and Grow Rich: The Landmark Bestseller - Now Revised and Updated for the 21st Century | Arthur R. Pell | TarcherPerigee | 2005 | $1.49 | $6.54 | $4.35
+0199291152 | The Selfish Gene: 30th Anniversary Edition--with a new Introduction by the Author | Richard Dawkins | Oxford University Press | 2006 | $4.25 | $10.35 | $6.58
+0684807610 | Benjamin Franklin: An American Life | Walter Isaacson | Simon & Schuster | 2003 | $0.01 | $7.99 | $4.09
+0205992129 | Evolutionary Psychology: The New Science of the Mind | David Buss | Psychology Press | 2014 | $45.49 | $77.99 | $64.98
+1451648537 | Steve Jobs | Walter Isaacson | Simon & Schuster | 2011 | $0.01 | $4.78 | $0.56
+0205992129 | Evolutionary Psychology: The New Science of the Mind | David Buss | Psychology Press | 2014 | $45.49 | $77.99 | $64.98
+0451205367 | The Richest Man in Babylon | George S. Clason | Signet | 2002 | $3.68 | $8.25 | $4.67
+0199291152 | The Selfish Gene: 30th Anniversary Edition--with a new Introduction by the Author | Richard Dawkins | Oxford University Press | 2006 | $4.25 | $10.35 | $6.58
+0553562835 | Sam Walton: Made In America | John Huey | Bantam | 1993 | $0.01 | $8.30 | $4.58
+1451648537 | Steve Jobs | Walter Isaacson | Simon & Schuster | 2011 | $0.01 | $4.78 | $0.56
+0316219282 | The Everything Store: Jeff Bezos and the Age of Amazon | Brad Stone | Back Bay Books | 2014 | $2.09 | $9.99 | $5.77
+0743264738 | Einstein: His Life and Universe | Walter Isaacson | Simon & Schuster | 2007 | $1.79 | $8.45 | $5.16
+0062301233 | Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future | Ashlee Vance | Ecco | 2015 | $13.50 | $22.46 | $18.42
+0062301233 | Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future | Ashlee Vance | Ecco | 2015 | $13.50 | $22.46 | $18.42
+0205992129 | Evolutionary Psychology: The New Science of the Mind | David Buss | Psychology Press | 2014 | $45.49 | $77.99 | $64.98
+0743235533 | The Greatest Minds and Ideas of All Time | Will Durant | Simon & Schuster | 2002 | $11.47 | $17.22 | $14.61
+0316219282 | The Everything Store: Jeff Bezos and the Age of Amazon | Brad Stone | Back Bay Books | 2014 | $2.09 | $9.99 | $5.77
+0316219282 | The Everything Store: Jeff Bezos and the Age of Amazon | Brad Stone | Back Bay Books | 2014 | $2.09 | $9.99 | $5.77
+
+Based on prices from Amazon.com, the current library is evaluated at:
+   Minimum Value: $450.93
+   Maximum Value: $934.05
+   Average Value: $697.50
+   Total Number of books: 50
